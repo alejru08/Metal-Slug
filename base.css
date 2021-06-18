@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: 'FuenteMetalSlug';
+    src: url('fuentes/MetalSlugLatinoRegular.otf');
+    src: url('fuentes/MetalSlugLatinoRegular.ttf');
+}
+
+body {
+    background-image: url("images/fondo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
